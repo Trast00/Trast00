@@ -1,1 +1,1 @@
-<h2>Hi, I'm Allassane! <img src="./images/icons8-boussole.gif" alt="Compas logo" /></h2>
+<h2>Hi, I'm Allassane! <img style="width=40px" src="./images/icons8-boussole.gif" alt="Compas logo" /></h2>
