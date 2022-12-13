@@ -26,9 +26,6 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 <p><a href="" style="text-decoration: none;"><img src="./images/Linkedin.png" width="20px" alt="Linkdin"></a>  <a href=""  style="text-decoration: none;"> <img src="./images/twitter.png" width="20px" alt="Twitter"></a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trast00)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Trast00&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Trast00)  
 
