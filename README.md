@@ -8,21 +8,23 @@
 #### About me
 
 Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys challenging himself by developing new skills most productively.
-:android I'm also self-taugh android developper
-:degree I have a master degree in telecommunication
+
+📱 I'm also a self-taught android developer
+
+👨‍🎓 I have a master's degree in telecommunication
 
 #### Like
 
-🧭 I love pushing myself on new challenges/projects, specially if there require [Deep Work](https://www.calnewport.com/books/deep-work/)
+🧭 I love pushing myself on new challenges/projects, especially if there require [Deep Work](https://www.calnewport.com/books/deep-work/)
 
-🎮 I play video game in my free time. 
+🎮 I play video games in my free time. 
 
-📺 I watched MR.Robot
+📺 I watched MR. Robot, Walking dead, and Game of Thrones (So I'm living in a cave) 
 
 
-**Skills**: JS | REACT JS, Redux  | Kotlin (Android Studio)
+**Skills**: JavaScript | React & Redux JS | Kotlin (Android Studio)
 
-📚  I’m currently currently following Mircoverse Program.
+📚  I’m currently following Mircoverse Program.
 
 <p><a href="" style="text-decoration: none;"><img src="./images/Linkedin.png" width="20px" alt="Linkdin"></a>  <a href=""  style="text-decoration: none;"> <img src="./images/twitter.png" width="20px" alt="Twitter"></a> </p>
 
