@@ -3,7 +3,7 @@
 ### Remote Full-stack web developer ready for new challenges
 ![Remote Full-stack web developer ready for new challenges <img width="30px" src="./images/icons8-boussole.gif" alt="Compas logo" />](./images/big_banner.png)
 
-<img align='right' src="./images/banner.png" width="230">
+<img align='right' src="./images/small_banner.png" width="230">
 
 #### About me
 
