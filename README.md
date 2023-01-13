@@ -1,4 +1,4 @@
-<h2>Hi there 👋, Hi! I'm Allassane!</h2>
+<h1>Hi there 👋, Hi! I'm Allassane!</h1>
 
 ### Remote Full-stack web developer ready for new challenges
 ![Remote Full-stack web developer ready for new challenges <img width="30px" src="./images/icons8-boussole.gif" alt="Compas logo" />](./images/big_banner.png)
