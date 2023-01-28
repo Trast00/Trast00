@@ -22,7 +22,7 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 📺 I watched MR. Robot, Walking dead, and Game of Thrones (So I'm living in a cave) 
 
 
-**Skills**: JavaScript | React & Redux JS | Kotlin (Android Studio)
+**Skills**: JavaScript | React & Redux JS | Ruby & RoR
 
 📚  I’m currently following Mircoverse Program.
 
