@@ -19,7 +19,7 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 🎮 I play video games in my free time. 
 
-📺 I watched MR. Robot, Walking dead, and Game of Thrones (So I'm living in a cave) 
+📺 I watched MR. Robot, Walking dead, and Game of Thrones (So I'm not living in a cave) 
 
 
 **Skills**: JavaScript | React & Redux JS | Ruby & RoR
