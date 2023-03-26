@@ -9,18 +9,15 @@
 
 Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys challenging himself by developing new skills most productively.
 
-📱 I'm also a self-taught android developer
+📱 Also a self-taught android developer
 
-👨‍🎓 I have a master's degree in telecommunication
+👨‍🎓 Have a master's degree in telecommunication
 
 #### Like
 
-🧭 I love pushing myself on new challenges/projects, especially if there require [Deep Work](https://www.calnewport.com/books/deep-work/)
+🧭 Love pushing myself on new challenges/projects, especially if there require [Deep Work](https://www.calnewport.com/books/deep-work/)
 
-🎮 I play video games in my free time. 
-
-📺 I watched MR. Robot, Walking dead, and Game of Thrones (So I'm not living in a cave) 
-
+🎮 Play video games in my free time. 
 
 **Skills**: JavaScript | React & Redux JS | Ruby & RoR
 
