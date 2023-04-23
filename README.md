@@ -19,7 +19,7 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 🎮 Play video games in my free time. 
 
-**Skills**: JavaScript | React & Redux JS | Ruby & RoR
+**Language & Framework**: JavaScript | React & Redux JS | Ruby & RoR
 
 📚  I’m currently following Mircoverse Program.
 
