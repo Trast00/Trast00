@@ -27,6 +27,7 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trast00)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trast00&exclude_days=Sat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=trast00&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Trast00)  
 
