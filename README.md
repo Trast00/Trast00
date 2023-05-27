@@ -25,9 +25,9 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 <p><a href="https://www.linkedin.com/in/dickoallassane/" style="text-decoration: none;"><img src="./images/Linkedin.png" width="20px" alt="Linkdin"></a>  <a href="https://twitter.com/AllassaneDicko0"  style="text-decoration: none;"> <img src="./images/twitter.png" width="20px" alt="Twitter"></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Trast00)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Trast00)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trast00&exclude_days=Sat)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=trast00&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=trast00&exclude_days=Sun%2CSat)](https://git.io/streak-stats) -->
 
 ![Profile views](https://gpvc.arturio.dev/Trast00)  
 
