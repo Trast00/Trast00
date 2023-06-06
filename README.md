@@ -17,6 +17,8 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 **👨‍🎓 Have a master's degree in telecommunication**
 
+**⚡ currently on the challenge #1000DayOfCode**
+
 ### Interest
 
 🎨 Design mobile and desktop with Adobe XD (and soon figma)
