@@ -9,6 +9,8 @@
 
 Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys challenging himself by developing new skills most productively.
 
+**👨‍💻 Part-Time Code Reviewer at Microverse**
+
 **🌐 Certified Full-stack web developper**
 
 **📱 Self-taught android developer**
