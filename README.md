@@ -57,7 +57,7 @@ Express JS, TypeScript, Design mobile & web with figma
 ## 📊 Git Stats
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Trast00)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trast00&exclude_days=Sat)](https://git.io/streak-stats)
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trast00&show_icons=true&locale=en&layout=compact" alt="Trast00" /><div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Trast00&show_icons=true&locale=en" alt="Trast00" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trast00&show_icons=true&locale=en&layout=compact" alt="Trast00" />
 <!-- ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trast00) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=trast00&exclude_days=Sun%2CSat)](https://git.io/streak-stats) -->
