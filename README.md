@@ -11,7 +11,7 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 **👨‍💻 Part-Time Code Reviewer at Microverse**
 
-**🌐 Certified Full-stack web developper**
+**🌐 Certified Full-stack web developer**
 
 **📱 Self-taught android developer**
 
@@ -30,7 +30,7 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 🤝 Open to new collaborating on interesting projects
 
 💬 **Chat about**:
-    🌐 web/mobile developement,
+    🌐 web/mobile development,
     🤖 IA,
     ⚡📖 self-improvement book,
 
@@ -40,7 +40,7 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 **Languages:** JavaScript, Ruby, Kotlin, SQL, HTML &CSS, XML
 
-**Framework & Librabries:** React, Redux, Ruby on Rails, PostgreSQL, RSpec, Jest
+**Framework & Libraries:** React, Redux, Ruby on Rails, PostgreSQL, RSpec, Jest
 
 **IDE:** VSCode, Android Studio
 
