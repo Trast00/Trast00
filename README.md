@@ -1,9 +1,9 @@
 <h1>Hi there 👋, I'm Allassane!</h1>
 
 ### Remote Full-stack web developer ready for new challenges
-![Remote Full-stack web developer ready for new challenges <img width="30px" src="./images/icons8-boussole.gif" alt="Compas logo" />](./images/big_banner.png)
 
-<img align='right' src="./images/small_banner.png" width="230">
+![White Minimalist Corporate Personal Profile LinkedIn Banner (2)](https://github.com/Trast00/Trast00/assets/74411135/21f4c849-7a14-4f59-a1d0-a58cb960d634)
+
 
 ### About me
 
@@ -62,6 +62,6 @@ Express JS, TypeScript, Design mobile & web with figma
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Trast00)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trast00&exclude_days=Sat)](https://git.io/streak-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Trast00&show_icons=true&locale=en" alt="Trast00" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trast00&show_icons=true&locale=en&layout=compact" alt="Trast00" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trast00&show_icons=true&locale=en&layout=compact" alt="Trast00" />
 <!-- ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trast00) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=trast00&exclude_days=Sun%2CSat)](https://git.io/streak-stats) -->
