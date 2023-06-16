@@ -45,7 +45,7 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 **IDE:** VSCode, Android Studio
 
 ### Tools
-Git, Github, Webpack, Testing, Adobe XD, Test Driven Development
+Git, Github, Webpack, Testing, Adobe XD, Test Driven Development, Android Studio, Firebase
 
 ### Currently Learning 
 Express JS, TypeScript, Design mobile & web with figma
