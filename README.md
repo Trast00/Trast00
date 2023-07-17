@@ -36,19 +36,12 @@ Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys c
 
 ## 🧰 Tech Stack & Tools
 
-### Languages & Frameworks & Libraries
-
-**Languages:** JavaScript, Ruby, Kotlin, SQL, HTML &CSS, XML
-
-**Framework & Libraries:** React, Redux, Ruby on Rails, PostgreSQL, RSpec, Jest
-
-**IDE:** VSCode, Android Studio
-
-### Tools
-Git, Github, Webpack, Testing, Adobe XD, Test Driven Development, Android Studio, Firebase
-
-### Currently Learning 
-Express JS, TypeScript, Design mobile & web with figma
+**Front-end**: JavaScript, React, Redux, TypeScript, Kotlin (Android Studio), HTML5, CSS3, XML
+**Back-end**: Ruby, Rails, MySQL, PostgreSQL, SQL, Node.js, Express.js, MongoDB, Mongoose
+**Tools & Methods**: Git, GitHub, Netlify, Mobile/Responsive Development, RSpec, TDD, Firebase, UI/UX Design Adobe XD, Test Driven Development, Webpack
+**Professional**: Communication, Pair-Programming, Teamwork, Team Leadership, Project Management, Deep work
+ 
+**Learning soon**: Next.js, Amazone Web Services
 
 ## 📫 Connect with me
   
