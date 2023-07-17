@@ -7,7 +7,7 @@
 
 ### About me
 
-Hi! My name is Allassane, I'm a passionate full-stack web developer who enjoys challenging himself by developing new skills most productively.
+Hi! My name is Allassane, a certified full-stack web developer with a startup background, focused on creating visually appealing and detail-oriented software solutions
 
 **👨‍💻 Part-Time Code Reviewer at Microverse**
 
