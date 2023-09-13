@@ -9,11 +9,13 @@
 
 Hi! My name is Allassane, a certified full-stack web developer with a startup background, focused on creating visually appealing and detail-oriented software solutions
 
-**👨‍💻 Part-Time Code Reviewer at Microverse**
+**👨‍💻 Technical OPS at CouponFollow**
+
+**👨‍💻 Code Reviewer at Microverse**
 
 **🌐 Certified Full-stack web developer**
 
-**📱 Self-taught android developer**
+**📱 Start-up Co-founder and Android developer at LND**
 
 **👨‍🎓 Have a master's degree in telecommunication**
 
