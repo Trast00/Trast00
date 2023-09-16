@@ -11,6 +11,8 @@ Hi! My name is Allassane, a certified full-stack web developer with a startup ba
 
 **👨‍💻 Technical OPS at CouponFollow**
 
+**🧑‍💻 Front-end Developper at Decode Analytic**
+
 **👨‍💻 Code Reviewer at Microverse**
 
 **🌐 Certified Full-stack web developer**
@@ -22,6 +24,8 @@ Hi! My name is Allassane, a certified full-stack web developer with a startup ba
 **⚡ currently on the challenge #1000DayOfCode**
 
 ### Interest
+
+**💌 Love Volunteer for human's causes**
 
 🎨 Design mobile and desktop with Adobe XD (and soon figma)
 
