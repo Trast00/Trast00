@@ -51,7 +51,7 @@ Hi! My name is Allassane, a certified full-stack web developer with a startup ba
 **Professional**: Communication, Pair-Programming, Teamwork, Team Leadership, Project Management, Deep work
 
  
-**Learning soon**: Next.js, Amazone Web Services
+**Learning soon**: Next.js, Amazone Web Services, React Native
 
 ## 📫 Connect with me
   
