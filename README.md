@@ -21,7 +21,7 @@ Hi! My name is Allassane, a certified full-stack web developer with a startup ba
 
 **👨‍🎓 Have a master's degree in telecommunication**
 
-**⚡ currently on the challenge #1000DayOfCode**
+**⚡ Currently on the challenge #1000DayOfCode**
 
 ### Interest
 
