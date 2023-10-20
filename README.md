@@ -42,7 +42,7 @@ Hi! My name is Allassane, a certified full-stack web developer with a startup ba
 
 ## 🧰 Tech Stack & Tools
 
-**Front-end**: JavaScript, React, Redux, TypeScript, Kotlin (Android Studio), HTML5, CSS3, XML
+**Front-end**: JavaScript, React, Redux, TypeScript, Kotlin (Android Studio), HTML5, CSS3, TailwindCSS, XML
 
 **Back-end**: Ruby, Rails, MySQL, PostgreSQL, SQL, Node.js, Express.js, MongoDB, Mongoose
 
