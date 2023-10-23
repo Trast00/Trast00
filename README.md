@@ -27,7 +27,7 @@ Hi! My name is Allassane, a certified full-stack web developer with a startup ba
 
 **💌 Love Volunteer for human's causes**
 
-🎨 Design mobile and desktop with Adobe XD (and soon figma)
+🎨 Design mobile and desktop
 
 🧭 Love pushing myself on new challenges/projects, especially if there require [Deep Work](https://www.calnewport.com/books/deep-work/)
 
