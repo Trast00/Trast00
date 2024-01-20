@@ -38,7 +38,7 @@ Hi! My name is Allassane, a certified full-stack web developer with a startup ba
 💬 **Chat about**:
     🌐 web/mobile development,
     🤖 IA,
-    ⚡📖 self-improvement book,
+    ⚡📖 self-improvement book (Like deep work),
 
 ## 🧰 Tech Stack & Tools
 
